@@ -1,0 +1,7 @@
+{
+  "name": "swiggerMobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
